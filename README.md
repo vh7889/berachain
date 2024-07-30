@@ -7,9 +7,11 @@
 欢迎关注推特：https://x.com/GZY499G
 
 1:钱包配置：
+
 钱包信息配置在 bera_wallet.csv
 
 2 领水：
+
 需要配置beraToken.py 里面的 proxy 动态ip
 https://app.proxy-cheap.com/r/jmdrxa 这里可以购买；1Gb 5刀左右 可以用很久
 
@@ -18,6 +20,7 @@ https://dashboard.capsolver.com/passport/register?inviteCode=N4-HuzH2d9kK
 这里可以购买，同样可以用很久很久
 
 3 链上交互
+
 直接运行app.py 文件即可
 会让输入钱包编号 比如1-10 代表1-10号钱包
 
